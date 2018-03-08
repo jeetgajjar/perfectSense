@@ -1,0 +1,33 @@
+<div class="Article">
+
+    {{#with headline}}
+    <div class="Article-headline">
+        <h1>{{this}}</h1>
+    </div>
+    {{/with}}
+
+    {{#with author}}
+    <div class="Article-author">
+        <h1>{{this}}</h1>
+    </div>
+    {{/with}}
+
+    {{#with date}}
+    <div class="Article-date">
+        <h1>{{this}}</h1>
+    </div>
+    {{/with}}
+
+    {{#with leadImageUrl}}
+    <div class="Article-leadImage">
+        <img src="{{this}}" height="300">
+    </div>
+    {{/with}}
+
+    {{#with body}}
+    <div class="Article-body">
+        {{this}}
+    </div>
+    {{/with}}
+
+</div>

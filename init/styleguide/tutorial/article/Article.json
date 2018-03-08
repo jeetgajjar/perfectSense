@@ -1,0 +1,8 @@
+{
+  "_template"   : "Article.hbs",
+  "headline"    : "{{words(8)}}",
+  "author"      : "{{name}}",
+  "date"        : "{{date}}",
+  "leadImageUrl": "{{image(400, 300)}}",
+  "body": "{{paragraphs([2,3])}}"
+}

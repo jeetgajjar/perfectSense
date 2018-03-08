@@ -1,0 +1,7 @@
+{
+  "_template": "tutorial/page/Page.hbs",
+  "title"    : "Hello Perfect Sense",
+  "body"     : {
+          "_delegate" : true
+  }
+}
