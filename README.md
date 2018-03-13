@@ -1,3 +1,14 @@
+# Goal
+In this, I completed the Hello World Brightspot tutorial.
+The main goal was to use this CMS to create an article post resembling something like [this](https://www.cnet.com/news/ready-player-one-mines-the-80s-but-doesnt-dig-deep/).
+
+# Issues
+* The reloader was not working. Any changes I made, were not immediate and I had to restart the server after each change.
+* I was unable to add comments under my article
+
+
+
+
 # Brightspot Tutorials
 
 ## Repository Overview
